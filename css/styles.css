@@ -1,8 +1,20 @@
 .column {
   width:30%;
   float:left;
+  margin: 6px;
+  border: 5px solid #BFFB33;
+  padding: 4px;
+  background-color: white;
 }
-
 .kangaroo {
   width: 100%;
+}
+.koala {
+  width: 100%;
+}
+.taz {
+  width: 100%;
+}
+h1 {
+  text-align: center;
 }
