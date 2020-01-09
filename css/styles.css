@@ -26,5 +26,6 @@ h1 {
 font-family: cursive;
 }
 body {
+  text-shadow: rgb(223, 14, 14) 1px 0 10px;
   color: white
 }
