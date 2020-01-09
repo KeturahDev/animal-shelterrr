@@ -1,10 +1,14 @@
+body {
+  background-image: url(background.jpg);
+  background: cover;
+  background-repeat: no-repeat;
+}
 .column {
   width:30%;
   float:left;
   margin: 6px;
   border: 5px solid #BFFB33;
   padding: 4px;
-  background-color: white;
 }
 .kangaroo {
   width: 100%;
@@ -17,4 +21,10 @@
 }
 h1 {
   text-align: center;
+}
+.great p {
+font-family: cursive;
+}
+body {
+  color: white
 }
