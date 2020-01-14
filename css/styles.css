@@ -1,8 +1,31 @@
-body {
+/* body {
+  background-image: url(background.jpg);
+  background: cover;
+  background-repeat: no-repeat;
+} */
+.original{
   background-image: url(background.jpg);
   background: cover;
   background-repeat: no-repeat;
 }
+.green-background {
+  background-color: green;
+}
+.yellow-background {
+  background-color: yellow;
+}
+.red-background {
+  background-color: red;
+}
+.light {
+  background-color: bisque;
+  color: black;
+}
+.dark {
+  background-color: black;
+  color: bisque;
+}
+
 .column {
   width:30%;
   float:left;
